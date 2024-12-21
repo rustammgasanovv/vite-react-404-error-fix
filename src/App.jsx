@@ -6,7 +6,7 @@ import Contact from "./pages/Contact.jsx";
 
 function App() {
   return (
-    <Router basename={import.meta.env.BASE_URL}>
+    <Router>
       <div className="App">
         <nav>
           <ul>
